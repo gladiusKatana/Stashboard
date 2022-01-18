@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    PopupMenuVC.swift    prototype    created by Garth Snyder
+import UIKit    //  PopupMenuVC.swift
 
 class PopupMenuVC: UICollectionViewController, UIGestureRecognizerDelegate {
     

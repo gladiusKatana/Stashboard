@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    TextField.swift    prototype    created by Garth Snyder
+import UIKit    //  TextField.swift
 
 extension CollectionVC {
     

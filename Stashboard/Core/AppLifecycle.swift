@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    AppLifecycle.swift    prototype    created by Garth Snyder
+import UIKit    //  AppLifecycle.swift
 
 extension AppDelegate {
     

@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    SetTopVC.swift    prototype    created by Garth Snyder
+import UIKit    //  SetTopVC.swift
 
 extension UICollectionViewController {
     

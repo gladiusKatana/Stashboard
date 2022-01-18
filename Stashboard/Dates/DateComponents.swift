@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    DateComponents.swift    prototype    created by Garth Snyder
+import UIKit    //  DateComponents.swift
 
 func getChosenDateComponents(_ inputDate: Date, roundedDown: Bool)
 

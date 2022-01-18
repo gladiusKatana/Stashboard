@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    VCs_II.swift    prototype    created by Garth Snyder
+import UIKit    //  VCs_II.swift
 
 let expensesBreakdownLayout = CustomFlowLayout(
     embeddedInNavController: true,      ///  if true, it's fullscreen (with a nav bar button to navigate to its collection view controller's view); ...

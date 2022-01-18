@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    TestSquare.swift    prototype    created by Garth Snyder
+import UIKit    //  TestSquare.swift
 
 func drawTestSquare() { /// for testing purposes only: to verify dynamic calculation of navbar height + status bar height, and thus, cell heights
 

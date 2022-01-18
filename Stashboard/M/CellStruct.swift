@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    CellStruct.swift    prototype    created by Garth Snyder
+import UIKit    //  CellStruct.swift
 
 
 struct CellStruct<T: Hashable, U: Hashable, V: Hashable>: Hashable {

@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    NavButtons.swift    prototype    created by Garth Snyder
+import UIKit    //  NavButtons.swift
 
 extension CollectionVC {
     

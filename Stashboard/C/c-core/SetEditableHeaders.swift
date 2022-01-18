@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    SetEditableHeaders.swift    prototype    created by Garth Snyder
+import UIKit    //  SetEditableHeaders.swift
 
 
 func setEditableHeaderCells() {     //print("setting editable headers")

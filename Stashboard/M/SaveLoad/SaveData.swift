@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    SaveData.swift    prototype    created by Garth Snyder
+import UIKit    //  SaveData.swift
 
 import SwiftKeychainWrapper
 

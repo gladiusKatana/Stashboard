@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    VCs_III.swift    prototype    created by Garth Snyder
+import UIKit    //  VCs_III.swift
 
 let w = 150
 

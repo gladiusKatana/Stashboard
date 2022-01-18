@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    DateSaving.swift    prototype    created by Garth Snyder
+import UIKit    //  DateSaving.swift
 
 
 func saveComponentsAndDateOfWhenDataModelWasLastSaved(resetting: Bool) {

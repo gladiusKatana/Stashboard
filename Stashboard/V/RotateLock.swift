@@ -1,4 +1,4 @@
-//import UIKit    //    CoinBits Calculator    RotateLock.swift    prototype    created by Garth Snyder
+//import UIKit    //  RotateLock.swift
 
 /*
 

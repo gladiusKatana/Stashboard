@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    CollectionVC.swift    prototype    created by Garth Snyder
+import UIKit    //  CollectionVC.swift
 
 class CollectionVC: UICollectionViewController, UITextFieldDelegate, UIGestureRecognizerDelegate {
     

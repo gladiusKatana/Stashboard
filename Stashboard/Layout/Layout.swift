@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Layout.swift    prototype    created by Garth Snyder
+import UIKit    //  Layout.swift
 
 class CustomFlowLayout : UICollectionViewFlowLayout {
     var cols = 0;   var rows = 0;           var lockedHeaderRows = 0;               var lockedHeaderSections = 0

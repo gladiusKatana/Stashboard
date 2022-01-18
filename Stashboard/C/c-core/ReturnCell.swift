@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    ReturnCell.swift    prototype    created by Garth Snyder
+import UIKit    //  ReturnCell.swift
 
 extension CollectionVC {
     

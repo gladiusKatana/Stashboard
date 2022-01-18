@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    TapCell.swift    prototype    created by Garth Snyder
+import UIKit    //  TapCell.swift
 
 extension CollectionVC {
     

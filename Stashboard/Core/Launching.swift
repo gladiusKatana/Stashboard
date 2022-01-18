@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Launching.swift    prototype    created by Garth Snyder
+import UIKit    //  Launching.swift
 
 extension AppDelegate {
     

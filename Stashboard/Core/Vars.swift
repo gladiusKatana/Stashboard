@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Vars.swift    prototype    created by Garth Snyder
+import UIKit    //  Vars.swift
 
 var globalWindow = UIWindow(frame: UIScreen.main.bounds)
 ///var sceneDelegate = SceneDelegate() //not (currently) using multiple windows on iPad or scene-view modal vc presentations

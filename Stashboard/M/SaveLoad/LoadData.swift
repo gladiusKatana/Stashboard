@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    LoadData.swift    prototype    created by Garth Snyder
+import UIKit    //  LoadData.swift
 import SwiftKeychainWrapper
 
 extension CollectionVC {

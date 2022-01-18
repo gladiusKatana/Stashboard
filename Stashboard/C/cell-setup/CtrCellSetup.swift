@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    CtrCellSetup.swift    prototype    created by Garth Snyder
+import UIKit    //  CtrCellSetup.swift
 
 extension CollectionVC {
     

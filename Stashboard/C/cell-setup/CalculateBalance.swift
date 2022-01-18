@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    CalculateBalance.swift    prototype    created by Garth Snyder
+import UIKit    //  CalculateBalance.swift
 
 extension CollectionVC {
     

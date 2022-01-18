@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Reload.swift    prototype    created by Garth Snyder
+import UIKit    //  Reload.swift
 
 extension CollectionVC {
     

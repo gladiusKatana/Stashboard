@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    VisibleRows.swift    prototype    created by Garth Snyder
+import UIKit    //  VisibleRows.swift
 
 extension CollectionVC {
     

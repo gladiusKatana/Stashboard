@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    CellOrder.swift    prototype    created by Garth Snyder
+import UIKit    //  CellOrder.swift
 
 extension CollectionVC {
     

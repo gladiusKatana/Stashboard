@@ -1,6 +1,5 @@
-import UIKit    //    CoinBits Calculator    TFieldReturn.swift    prototype    created by Garth Snyder
+import UIKit    //  TFieldReturn.swift
 
-//                                               *TField = text field
 extension CollectionVC {
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {              ///print("text field returned")

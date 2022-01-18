@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    StringFormatting.swift    prototype    created by Garth Snyder
+import UIKit    //  StringFormatting.swift
 
 extension String { //* refactor some of these methods at some point soon
     

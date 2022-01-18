@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    DataVars.swift    prototype    created by Garth Snyder
+import UIKit    //  DataVars.swift
 
 var dataAtIndexPath = Dictionary<CellStruct<Int,Int,Int>,[String]>() /// Dictionary keyed by 2-tuple (index path)
 

@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    CalculateExpenses.swift    prototype    created by Garth Snyder
+import UIKit    //  CalculateExpenses.swift
 
 extension CollectionVC {
     

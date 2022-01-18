@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    TimeVars.swift    prototype    created by Garth Snyder
+import UIKit    //  TimeVars.swift
 
 
 var dateLastSavedData = Date()

@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Prynts.swift    prototype    created by Garth Snyder
+import UIKit    //  Prynts.swift
 
 func pryntDataTabularized() {    /// spelling 'prynt' with a y so this function's existence won't hijack Xcode autocomplete priority for print statements
     print("")

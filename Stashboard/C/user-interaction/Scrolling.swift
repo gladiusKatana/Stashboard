@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Scrolling.swift    prototype    created by Garth Snyder
+import UIKit    //  Scrolling.swift
 
 extension CollectionVC {
     

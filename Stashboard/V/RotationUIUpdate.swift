@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    RotationUIUpdate.swift    prototype    created by Garth Snyder
+import UIKit    //  RotationUIUpdate.swift
 
 func updateUIAfterRotation() {
     

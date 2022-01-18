@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    GoToVC.swift    prototype    created by Garth Snyder
+import UIKit    //  GoToVC.swift
 
 extension CollectionVC {
     

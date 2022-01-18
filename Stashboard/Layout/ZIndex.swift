@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    ZIndex.swift    prototype    created by Garth Snyder
+import UIKit    //  ZIndex.swift
 
 extension CustomFlowLayout {
     

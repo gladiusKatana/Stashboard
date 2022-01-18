@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    CalcCredInterest.swift    prototype    created by Garth Snyder
+import UIKit    //  CalcCredInterest.swift
 
 extension CollectionVC {
     

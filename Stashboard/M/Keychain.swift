@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Keychain.swift    prototype    created by Garth Snyder
+import UIKit    //  Keychain.swift
 
 import SwiftKeychainWrapper     // see https://github.com/jrendel/SwiftKeychainWrapper ; search "Swift Package Manager"
 

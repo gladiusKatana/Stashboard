@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    SizeNotifications.swift    prototype    created by Garth Snyder
+import UIKit    //  SizeNotifications.swift
 
 import NotificationCenter
 

@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    SizeEnums.swift    prototype    created by Garth Snyder
+import UIKit    //  SizeEnums.swift
 
 extension CustomFlowLayout {
     

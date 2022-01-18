@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    RCellSetup.swift    prototype    created by Garth Snyder
+import UIKit    //  RCellSetup.swift
 
 extension CollectionVC {
     

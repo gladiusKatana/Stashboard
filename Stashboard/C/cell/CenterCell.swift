@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    CenterCell.swift    prototype    created by Garth Snyder
+import UIKit    //  CenterCell.swift
 
 class CenterAlignedCell: BaseCell {
     

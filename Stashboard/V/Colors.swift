@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Colors.swift    prototype    created by Garth Snyder
+import UIKit    //  Colors.swift
 
 var headerColor = darkKeyboardColor//74,113,128 //UIColor.darkGray
 

@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    VCType.swift    prototype    created by Garth Snyder
+import UIKit    //  VCType.swift
 
 enum CollectionViewType: Int {
     

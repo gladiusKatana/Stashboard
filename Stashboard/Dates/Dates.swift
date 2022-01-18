@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Dates.swift    prototype    created by Garth Snyder
+import UIKit    //  Dates.swift
 
 func makeDateFrom(year: Int, month: Int, day: Int, hr: Int, min: Int, sec: Int) -> Date {
     let calendar = Calendar(identifier: .gregorian)

@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Prepare.swift    prototype    created by Garth Snyder
+import UIKit    //  Prepare.swift
 
 extension CustomFlowLayout {
     

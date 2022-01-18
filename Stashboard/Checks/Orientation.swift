@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Orientation.swift    prototype    created by Garth Snyder
+import UIKit    //  Orientation.swift
 
 extension AppDelegate {
     

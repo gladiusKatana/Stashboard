@@ -1,4 +1,4 @@
-//import UIKit    //    CoinBits Calculator    LeftCell.swift    prototype    created by Garth Snyder
+//import UIKit    //  LeftCell.swift
 //
 //class LeftAlignedCell: BaseCell {
 //

@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    RightCell.swift    prototype    created by Garth Snyder
+import UIKit    //  RightCell.swift
 
 class RightAlignedCell: BaseCell {
     

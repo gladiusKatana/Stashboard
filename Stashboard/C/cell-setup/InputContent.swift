@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    InputContent.swift    prototype    created by Garth Snyder
+import UIKit    //  InputContent.swift
 
 extension CollectionVC {
     

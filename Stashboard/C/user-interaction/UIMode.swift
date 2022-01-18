@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    UIMode.swift    prototype    created by Garth Snyder
+import UIKit    //  UIMode.swift
 
 extension CollectionVC {
     

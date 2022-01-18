@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    FormatDate.swift    prototype    created by Garth Snyder
+import UIKit    //  FormatDate.swift
 
 func formattedDateString(_ date: Date, roundDown: Bool, showYear: Bool, prefix: String?, suffix: String, dateFormat: CustomDateFormat) -> String { // * probably will remove some of this method at some point (ie enum cases)
     

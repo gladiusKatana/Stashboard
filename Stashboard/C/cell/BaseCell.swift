@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    BaseCell.swift    prototype    created by Garth Snyder
+import UIKit    //  BaseCell.swift
 
 class BaseCell: UICollectionViewCell {
     

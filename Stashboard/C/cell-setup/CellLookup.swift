@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    CellLookup.swift    prototype    created by Garth Snyder
+import UIKit    //  CellLookup.swift
 
 extension CollectionVC {
     

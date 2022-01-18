@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    PopulateModel.swift    prototype    created by Garth Snyder
+import UIKit    //  PopulateModel.swift
 
 extension CollectionVC {
     

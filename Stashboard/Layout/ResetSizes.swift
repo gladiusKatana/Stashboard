@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    ResetSizes.swift    prototype    created by Garth Snyder
+import UIKit    //  ResetSizes.swift
 
 extension CustomFlowLayout {
     

@@ -1,6 +1,5 @@
-import UIKit    //    CoinBits Calculator    TFieldSetup.swift    prototype    created by Garth Snyder
+import UIKit    //  TFieldSetup.swift
 
-//                                               *TField = text field
 extension CollectionVC {
     
     func rePresentTextField() {                 //print("re-presenting text field & keyboard")

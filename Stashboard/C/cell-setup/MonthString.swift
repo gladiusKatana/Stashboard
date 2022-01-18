@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    MonthString.swift    prototype    created by Garth Snyder
+import UIKit    //  MonthString.swift
 
 extension CollectionVC {
     

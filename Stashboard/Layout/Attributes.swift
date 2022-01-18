@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    Attributes.swift    prototype    created by Garth Snyder
+import UIKit    //  Attributes.swift
 
 var alreadySetAttributes = false
 

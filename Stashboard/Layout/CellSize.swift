@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    CellSize.swift    prototype    created by Garth Snyder
+import UIKit    //  CellSize.swift
 
 extension CustomFlowLayout {
     

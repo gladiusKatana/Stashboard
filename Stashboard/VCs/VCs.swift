@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    VCs.swift    prototype    created by Garth Snyder
+import UIKit    //  VCs.swift
 
 
 var backgroundVC = UIViewController()

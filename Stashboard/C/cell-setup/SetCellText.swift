@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    SetCellText.swift    prototype    created by Garth Snyder
+import UIKit    //  SetCellText.swift
 
 extension CollectionVC {
     

@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    SortData.swift    prototype    created by Garth Snyder
+import UIKit    //  SortData.swift
 
 extension CollectionVC {
     

@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    DeviceType.swift    prototype    created by Garth Snyder
+import UIKit    //  DeviceType.swift
 
 /*
  Extension created by Stack Overflow User HAS:

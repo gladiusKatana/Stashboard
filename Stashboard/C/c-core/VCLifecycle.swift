@@ -1,4 +1,4 @@
-import UIKit    //    CoinBits Calculator    VCLifecycle.swift    prototype    created by Garth Snyder
+import UIKit    //  VCLifecycle.swift
 
 extension CollectionVC {
     
