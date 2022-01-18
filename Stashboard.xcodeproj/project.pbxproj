@@ -437,7 +437,7 @@
 			isa = PBXGroup;
 			children = (
 				06604F4E27952B0B005E5F3E /* c-core */,
-				06604F4527952B0B005E5F3E /* center-cell-setup */,
+				06604F4527952B0B005E5F3E /* cell-setup */,
 				06604F5B27952B0C005E5F3E /* user-interaction */,
 				06604F4127952B0B005E5F3E /* navbar */,
 				06604F5627952B0B005E5F3E /* cell */,
@@ -455,9 +455,10 @@
 			path = navbar;
 			sourceTree = "<group>";
 		};
-		06604F4527952B0B005E5F3E /* center-cell-setup */ = {
+		06604F4527952B0B005E5F3E /* cell-setup */ = {
 			isa = PBXGroup;
 			children = (
+				06604F5127952B0B005E5F3E /* RCellSetup.swift */,
 				06604F4827952B0B005E5F3E /* CtrCellSetup.swift */,
 				06604F4D27952B0B005E5F3E /* SetCellText.swift */,
 				06604F4927952B0B005E5F3E /* MonthString.swift */,
@@ -467,7 +468,7 @@
 				06604F4B27952B0B005E5F3E /* CalcCredInterest.swift */,
 				06604F4727952B0B005E5F3E /* CellLookup.swift */,
 			);
-			path = "center-cell-setup";
+			path = "cell-setup";
 			sourceTree = "<group>";
 		};
 		06604F4E27952B0B005E5F3E /* c-core */ = {
@@ -479,7 +480,6 @@
 				06604F5227952B0B005E5F3E /* SetEditableHeaders.swift */,
 				06604F4F27952B0B005E5F3E /* PopupMenuVC.swift */,
 				06604F5527952B0B005E5F3E /* Reload.swift */,
-				06604F5127952B0B005E5F3E /* RCellSetup.swift */,
 			);
 			path = "c-core";
 			sourceTree = "<group>";
@@ -498,14 +498,14 @@
 		06604F5B27952B0C005E5F3E /* user-interaction */ = {
 			isa = PBXGroup;
 			children = (
-				06604F5C27952B0C005E5F3E /* SizeNotifications.swift */,
-				06604F5D27952B0C005E5F3E /* TFieldReturn.swift */,
 				06604F5E27952B0C005E5F3E /* TapCell.swift */,
+				06604F6127952B0C005E5F3E /* Keyboard.swift */,
 				06604F6027952B0C005E5F3E /* TextField.swift */,
 				06604F6227952B0C005E5F3E /* TFieldSetup.swift */,
-				06604F6127952B0C005E5F3E /* Keyboard.swift */,
-				06604F5F27952B0C005E5F3E /* UIMode.swift */,
+				06604F5D27952B0C005E5F3E /* TFieldReturn.swift */,
 				06604F6327952B0C005E5F3E /* Scrolling.swift */,
+				06604F5F27952B0C005E5F3E /* UIMode.swift */,
+				06604F5C27952B0C005E5F3E /* SizeNotifications.swift */,
 			);
 			path = "user-interaction";
 			sourceTree = "<group>";
@@ -552,11 +552,11 @@
 				06604F7D27952B0C005E5F3E /* Layout.swift */,
 				06604F7827952B0C005E5F3E /* Attributes.swift */,
 				06604F7E27952B0C005E5F3E /* Prepare.swift */,
+				06604F7A27952B0C005E5F3E /* ZIndex.swift */,
 				06604F7C27952B0C005E5F3E /* CellSize.swift */,
 				06604F7B27952B0C005E5F3E /* ContentSize.swift */,
 				06604F7727952B0C005E5F3E /* ResetSizes.swift */,
 				06604F7927952B0C005E5F3E /* SizeEnums.swift */,
-				06604F7A27952B0C005E5F3E /* ZIndex.swift */,
 			);
 			path = Layout;
 			sourceTree = "<group>";
