@@ -22,7 +22,7 @@ extension CollectionVC {
             
             self?.dismissNavController {
                 
-                let newVC = UINavigationController(rootViewController: vc)
+                let newVC = CustomNavigationController(rootViewController: vc)
                 newVC.modalPresentationStyle = .fullScreen
                 navController?.present(newVC, animated: false, completion: nil)
                 

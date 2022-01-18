@@ -3,7 +3,7 @@ import UIKit    //  Vars.swift
 var globalWindow = UIWindow(frame: UIScreen.main.bounds)
 ///var sceneDelegate = SceneDelegate() //not (currently) using multiple windows on iPad or scene-view modal vc presentations
 
-var navController: UINavigationController? = UINavigationController()
+var navController: CustomNavigationController?
 
 var testSquarelayer = CAShapeLayer();               var testSquareColorInt = 0
 var statusBarHeight = 0.0;                          var navBarHeight = 0.0

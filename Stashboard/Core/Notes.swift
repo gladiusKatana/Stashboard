@@ -2,11 +2,11 @@
 
  git commit -m ""
  git commit -m ""
- git commit -m "update file headers"
+ git commit -m ""
  --(for fit)
  
  
- nightshift button tint colors
+ dark mode button tint colors
  new buttons
  keyboard cancel/done button blink upon rotate landscape to portrait
  default text logic

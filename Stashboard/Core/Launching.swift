@@ -39,7 +39,7 @@ extension AppDelegate {
     func application(_ application: UIApplication,
                      didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
-        navController = UINavigationController(rootViewController: backgroundVC) /// temporary, unseen initial root view controller
+        navController = CustomNavigationController(rootViewController: backgroundVC) /// temporary, unseen initial root view controller
         window?.rootViewController = navController  //; print("VCs*: \(String(describing: nav Controller?.viewControllers))")
         budgetVC.setupAndPresent(vc: budgetVC)
         return true

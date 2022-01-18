@@ -227,6 +227,7 @@
 		0660505527952FBB005E5F3E /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0660505427952FBB005E5F3E /* Notes.swift */; };
 		0660505627952FBB005E5F3E /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0660505427952FBB005E5F3E /* Notes.swift */; };
 		0660505727952FBB005E5F3E /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0660505427952FBB005E5F3E /* Notes.swift */; };
+		06E91AF6279690350009FF17 /* CustomNavController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E91AF5279690340009FF17 /* CustomNavController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -328,6 +329,7 @@
 		06604F8C27952B0D005E5F3E /* DateComponents.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateComponents.swift; sourceTree = "<group>"; };
 		06604F8D27952B0D005E5F3E /* Dates.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dates.swift; sourceTree = "<group>"; };
 		0660505427952FBB005E5F3E /* Notes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Notes.swift; sourceTree = "<group>"; };
+		06E91AF5279690340009FF17 /* CustomNavController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -429,6 +431,7 @@
 				06604EFA27952759005E5F3E /* AppDelegate.swift */,
 				06604F2E27952A76005E5F3E /* Launching.swift */,
 				06604F2D27952A76005E5F3E /* AppLifecycle.swift */,
+				06E91AF5279690340009FF17 /* CustomNavController.swift */,
 			);
 			path = Core;
 			sourceTree = "<group>";
@@ -746,6 +749,7 @@
 				0660503927952B0E005E5F3E /* SortData.swift in Sources */,
 				06604F3127952A77005E5F3E /* TimeVars.swift in Sources */,
 				06604FAF27952B0D005E5F3E /* PopupMenuVC.swift in Sources */,
+				06E91AF6279690350009FF17 /* CustomNavController.swift in Sources */,
 				06604F3427952A77005E5F3E /* AppLifecycle.swift in Sources */,
 				06604FBE27952B0D005E5F3E /* CollectionVC.swift in Sources */,
 				06604F9427952B0D005E5F3E /* NavBar.swift in Sources */,
