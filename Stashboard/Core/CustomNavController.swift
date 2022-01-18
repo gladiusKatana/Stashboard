@@ -18,15 +18,12 @@ class CustomNavigationController: UINavigationController {  // to fix iOS 15 nav
     }
     
     private func updateBarTintColor() {
-//        if #available(iOS 13.0, *) {
-//            self.navigationBar.barTintColor = UITraitCollection.current.userInterfaceStyle == .dark ? .black : .white
-//        }
-//
-//        UINavigationBar.appearance().barTintColor = .orange
         let appearance = UINavigationBarAppearance()
-        appearance.configureWithOpaqueBackground()
+        appearance.configureWithDefaultBackground()
+
         self.navigationBar.standardAppearance = appearance
         self.navigationBar.scrollEdgeAppearance = appearance
         
     }
 }
+
