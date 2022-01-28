@@ -43,15 +43,16 @@ func loadKeychainFromKeys(_ keyString: String) -> NSArray {
  from:
  https://github.com/jrendel/SwiftKeychainWrapper
  
+ "
  Swift Package Manager
  You can use Swift Package Manager to install SwiftKeychainWrapper using Xcode:
 
  Open your project in Xcode
-
  Click "File" -> "Swift Packages" -> "Add Package Dependency..."
-
  Paste the following URL: https://github.com/jrendel/SwiftKeychainWrapper
-
  Click "Next" -> "Next" -> "Finish"
+ "
+ 
+ -jrendel
  
  */
